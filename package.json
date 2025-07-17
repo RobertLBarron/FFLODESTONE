@@ -1,0 +1,15 @@
+{
+  "name": "fflodestone",
+  "version": "1.0.0",
+  "description": "a student project that is supposed to retrieve final fantasy information and allow users to save items and get alerts on any changes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
