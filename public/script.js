@@ -4,7 +4,7 @@ document.getElementById('trouble-link').addEventListener('click', function(e) {
 });
 
 function goHome() {
-  window.location.href = '/'; // Or change to a different page like '/home.html' if needed
+  window.location.href = '/';
 }
 
 function refreshData() {
